@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name": "Mobile",
+        "price": 75000,
+        "imgUrl": "/images/Mobile.jpg"
+    },
+    {
+        "id":2,
+        "name": "Television",
+        "price": 35000,
+        "imgUrl": "/images/television.jpg"
+    },
+    {
+        "id":3,
+        "name": "Laptop",
+        "price": 118000,
+        "imgUrl": "/images/laptop.jpg"
+    },
+    {
+        "id":4,
+        "name": "Washing Machine",
+        "price": 60000,
+        "imgUrl": "/images/wm.png"
+    },
+    {
+        "id":5,
+        "name": "Mixer-Grinder",
+        "price": 3500,
+        "imgUrl": "/images/mixer.jpg"
+    },
+    {
+        "id":6,
+        "name": "Speaker",
+        "price": 4500,
+        "imgUrl": "/images/speaker.jpg"
+    }
+]
