@@ -7,7 +7,7 @@
     },
     {
         "id":2,
-        "name": "Television",
+        "name": "Haier 4K Bezel Less 58 inch Android/Smart TV LE-58K6600HQGA",
         "price": 35000,
         "imgUrl": "/images/television.jpg"
     },
@@ -19,7 +19,7 @@
     },
     {
         "id":4,
-        "name": "Washing Machine",
+        "name": "LG Brand 7 Kg Front Load Washing Machine | Model : FV1207S4W | 1 Year Comprehensive, Including 10 Years on Motor",
         "price": 60000,
         "imgUrl": "/images/wm.png"
     },
@@ -31,8 +31,26 @@
     },
     {
         "id":6,
-        "name": "Speaker",
+        "name": "Ultima Thunder 120 Portable Party Speaker",
         "price": 4500,
         "imgUrl": "/images/speaker.jpg"
-    }
+    },
+{
+    "id":7,
+    "name": "DJI Mini 4 Pro Fly More Combo (DJI RC 2)",
+    "price": 150000,
+    "imgUrl": "/images/drone.png"
+},
+{
+    "id":8,
+    "name": "MAONO MH700 Monitoring Headphones",
+    "price": 3500,
+    "imgUrl": "/images/headphone.png"
+},
+{
+    "id":9,
+    "name": "Insta360 Ace Action Camera",
+    "price": 45000,
+    "imgUrl": "/images/camera.jpeg"
+}
 ]
