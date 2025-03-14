@@ -1,7 +1,7 @@
 [
     {
         "id":1,
-        "name": "Mobile",
+        "name": "AApple iPhone 11 128GB Black",
         "price": 75000,
         "imgUrl": "/images/Mobile.jpg"
     },
@@ -13,7 +13,7 @@
     },
     {
         "id":3,
-        "name": "Laptop",
+        "name": "Apple MacBook Air 13-inch M1, 8GB Ram 256GB Storage (Space Gray)",
         "price": 118000,
         "imgUrl": "/images/laptop.jpg"
     },
