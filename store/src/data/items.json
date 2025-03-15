@@ -7,43 +7,43 @@
     },
     {
         "id":2,
-        "name": "Haier 4K Bezel Less 58 inch Android/Smart TV LE-58K6600HQGA",
+        "name": "Haier 4K Bezel Less 58 inch ",
         "price": 35000,
         "imgUrl": "/images/television.jpg"
     },
     {
         "id":3,
-        "name": "Apple MacBook Air 13-inch M1, 8GB Ram 256GB Storage (Space Gray)",
+        "name": "Apple MacBook Air 13-inch M1",
         "price": 118000,
         "imgUrl": "/images/laptop.jpg"
     },
     {
         "id":4,
-        "name": "LG Brand 7 Kg Front Load Washing Machine | Model : FV1207S4W | 1 Year Comprehensive, Including 10 Years on Motor",
+        "name": "LG Brand washing Machine ",
         "price": 60000,
         "imgUrl": "/images/wm.png"
     },
     {
         "id":5,
-        "name": "Mixer-Grinder",
+        "name": " Premium Mixer-Grinder",
         "price": 3500,
         "imgUrl": "/images/mixer.jpg"
     },
     {
         "id":6,
-        "name": "Ultima Thunder 120 Portable Party Speaker",
+        "name": "Ultima Thunder 120  Speaker",
         "price": 4500,
         "imgUrl": "/images/speaker.jpg"
     },
 {
     "id":7,
-    "name": "DJI Mini 4 Pro Fly More Combo (DJI RC 2)",
+    "name": "DJI Mini 4 Pro Fly More Combo",
     "price": 150000,
     "imgUrl": "/images/drone.png"
 },
 {
     "id":8,
-    "name": "MAONO MH700 Monitoring Headphones",
+    "name": "MAONO   Headphones",
     "price": 3500,
     "imgUrl": "/images/headphone.png"
 },

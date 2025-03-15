@@ -8,11 +8,6 @@ import  StoreItems  from "../data/items.json"
 type ShoppingCProps ={
  isOpen: boolean
 }
-
-
-
-
-
 export function ShoppingC({isOpen}: ShoppingCProps)
 {
     const{closeCart, cartItems}= useShoppingCart()

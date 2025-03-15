@@ -9,7 +9,7 @@ export function Navbar() {
     return (
     <NavbarBs sticky="top" className="bg-white shadow-sm mb-3">
          <Container className="d-flex justify-content-between align-items-center">
-        <NavbarBs.Brand href="/" className="me-3 fw-bold">
+         <NavbarBs.Brand href="/" className="me-3 fw-bold">
       Pathivara Suppliers
     </NavbarBs.Brand>
 
